@@ -21,4 +21,5 @@ Me gusta montar, automatizar y entender cómo funcionan las cosas por dentro.
 | Proyecto | Descripción |
 |---|---|
 | [**forge**](https://github.com/KrmIvan/forge) | Web de la app FORGE para entrenamientos de pesas |
-| [**buscador-de-portatiles**](https://github.com/KrmIvan/buscador-de-portatiles) | Busca portátiles de segunda mano en Wallapop (ES/IT/PT) y los compara con el precio de uno nuevo. App web local en Python, sin dependencias |
+| [**PortatilSearch**](https://github.com/KrmIvan/PortatilSearch) | Busca portátiles de segunda mano en Wallapop (ES/IT/PT) y los compara con el precio de uno nuevo. App web local en Python, sin dependencias |
+| [**Real_Remitent_Check**](https://github.com/KrmIvan/rr-check) | Identifica si un mensaje de correo electronico viene de la empresa o persona real |
