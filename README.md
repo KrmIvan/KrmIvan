@@ -16,7 +16,7 @@ Me gusta montar, automatizar y entender cómo funcionan las cosas por dentro.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 📌 Proyectos destacados
+### 📌 Proyectos abiertos
 
 | Proyecto | Descripción |
 |---|---|
